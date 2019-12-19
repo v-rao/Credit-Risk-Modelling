@@ -1,0 +1,16 @@
+0.	What is the objective behind creation of a ML model?
+1.	Defining Problem statement – CREDIT RISK MODELING
+a.	What is credit risk?
+b.	Marginal utility of modelling Credit Risk to determine OBLIGATORY CAPITAL Vis-à-vis 8% of RWA as followed before.
+2.	Basel Norms
+3.	First look at the Data
+4.	Our Objective defines our modelling procedure
+5.	Exploration of Data
+6.	Feature Engineering
+7.	Creating Point in Time Model PIT-PD (Using Logistic Regression)
+8.	Clustering to obtain Consumer Risk Grades CRG
+9.	CRG-PD Model
+10.	Testing CRG-PD
+11.	Determining OBLIGATORY CAPITAL.
+
+UTILIZSTION = BALANCE/LMIT
